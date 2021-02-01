@@ -35,4 +35,3 @@ Agregar un setter en stock, que pregunte, si el stock llega a 0, cambie la propi
 
 BONUS 
 Reemplazar el hook, por un setter en "disponibilidad" de forma tal que cada vez que cambia la disponibilidad del producto, el titulo cambie dinámicamente, poniendo y sacando el "NO DISPONIBLE", ya que con el hook solo se haría en la creación!
-====================================
